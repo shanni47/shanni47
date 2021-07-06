@@ -1,6 +1,6 @@
 
 
-pip install Fore, Back, Style 
+pip install Style 
 pip install init 
 pip install colored 
 pip install datetime
