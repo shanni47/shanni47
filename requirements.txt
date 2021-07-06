@@ -3,3 +3,5 @@ colorama>=0.4.4
 colored>=1.4.2
 DateTime>=4.3
 style>=1.1.6
+geocoder>=1.38.1
+phonenumbers>=8.12.26
