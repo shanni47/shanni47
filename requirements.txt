@@ -1,6 +1,6 @@
-pip install androidhelper
-pip install time
-pip install Fore, Back, Style 
-pip install init 
-pip install colored 
-pip install datetime
+pip3 install androidhelper
+pip3 install time
+pip3 install Fore, Back, Style 
+pip3 install init 
+pip3 install colored 
+pip3 install datetime
