@@ -1,1 +1,1 @@
-python image.py
+python image.qpython-39.pyc
