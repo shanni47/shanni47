@@ -8,3 +8,6 @@ phonenumbers>=8.12.26
 figlet>=0.0.1
 termcolor>=1.1.0
 pyfiglet>=0.8.post1
+requests>=2.26.0
+urllib3>=1.26.6
+figlet==0.0.1
